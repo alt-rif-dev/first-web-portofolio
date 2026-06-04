@@ -10,3 +10,7 @@
 section {
   padding-top: 5rem;
 }
+
+.bg-gradient {
+  background: linear-gradient(to bottom, #a8d3ff, #fff4df);
+}
